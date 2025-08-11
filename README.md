@@ -12,8 +12,8 @@ The application supports Dark Mode and is internationalized with English and Ara
 
 ## Setup and Installation
 
-1. Clone the repository: git clone https://github.com/your-username/your-repo.git
-2. Navigate to the project folder: cd your-repo
+1. Clone the repository: git clone https://github.com/MikhailSobhy/mikhail-naqlasehia.git
+2. Navigate to the project folder: cd mikhail-naqlasehia
 3. Install dependencies: npm install
 4. Run the development server: npm run dev
 
@@ -21,11 +21,11 @@ The application supports Dark Mode and is internationalized with English and Ara
 
 ## Tools and Libraries Used
 
-React (with Vite)
-Redux Toolkit
-Tailwind CSS
-Material UI (MUI)
-Axios
-React Router DOM
-react-i18next (for internationalization)
+1. React (with Vite)
+2. Redux Toolkit
+3. Tailwind CSS
+4. Material UI (MUI)
+5. Axios
+6. React Router DOM
+7. react-i18next (for internationalization)
 
